@@ -40,11 +40,11 @@ The <b>Electoral_Management_System</b> is a Node.js-based system developed using
 
   <h3>Get Candidates</h3>
     <ul>
-      <li><b>GET /candidates</b>: Add a new candidate (Admin only)</li>
+      <li><b>GET /candidates</b>: Get the list of candidates</li>
     </ul>
   <h3>Add Candidate</h3>
     <ul>
-      <li><b>POST /candidates</b>: Login a user.</li>
+      <li><b>POST /candidates</b>: Add a new candidate (Admin only)</li>
     </ul>
     <h3>Delete Candidate</h3>
     <ul>
@@ -79,7 +79,7 @@ The <b>Electoral_Management_System</b> is a Node.js-based system developed using
   <h3>Change Password</h3>
     <ul>
       <li><b>PUT /users/profile/password</b>:  Change user password
-About</li>
+</li>
     </ul>
 
   
